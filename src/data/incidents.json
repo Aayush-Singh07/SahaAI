@@ -1,0 +1,202 @@
+[
+  {
+    "question": "How to report a lost mobile?",
+    "answer": "Register a lost report at your police station. Provide IMEI, phone model, and purchase details. The police will forward to CEIR to block the phone.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§303 (Theft)",
+      "BNSS_Provisions": "§173 (Zero FIR, FIR registration)",
+      "Civil_Law_Judgments": "Lalita Kumari v. State of UP – FIR mandatory for cognizable offence"
+    },
+    "required_info": ["IMEI number", "Date, time, and location of loss", "Phone model and color", "Purchase invoice", "SIM details", "Any tracking attempts"]
+  },
+  {
+    "question": "How to report a stolen mobile?",
+    "answer": "File an FIR at your police station. Provide IMEI, make, model, and any witness information. The police will forward the details to CEIR to block the phone.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§303 (Theft)",
+      "BNSS_Provisions": "§173 (Zero FIR, FIR registration)",
+      "Civil_Law_Judgments": "Lalita Kumari v. State of UP – FIR mandatory for cognizable offence"
+    },
+    "required_info": ["IMEI number", "Date, time, and location of theft", "Phone model and color", "Witness info", "SIM details", "Any tracking attempts"]
+  },
+  {
+    "question": "How to report cyber fraud or online scams?",
+    "answer": "Register an FIR under relevant cybercrime sections. Provide screenshots, transaction details, and affected account information. Police will forward to Cyber Cell.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§316 (Cheating by personation), §317 (Fraudulent acts)",
+      "BNSS_Provisions": "§173, §193 (Digital evidence handling)",
+      "Civil_Law_Judgments": "Shreya Singhal v. Union of India – Free speech vs cybercrime"
+    },
+    "required_info": ["Date/time of incident", "Platform used (UPI, website, social media)", "Fraudulent account/phone number", "Screenshots of chats/transactions", "Bank statements", "Email/SMS alerts"]
+  },
+  {
+    "question": "How to report house break-in or burglary?",
+    "answer": "File an FIR with details of stolen items, entry points, and any CCTV footage. Police may send forensic team if needed.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§304 (House-breaking), §303",
+      "BNSS_Provisions": "§173, §187 (Search & seizure)",
+      "Civil_Law_Judgments": "State of Maharashtra v. Bharat Fakira Dhiwar – Burden of proof in theft"
+    },
+    "required_info": ["Date/time of break-in", "Entry point used", "List of stolen items", "CCTV footage", "Witness statements", "Photos of damage"]
+  },
+  {
+    "question": "How to report pickpocketing or snatching?",
+    "answer": "Provide location, time, description of suspect, and stolen items. Police will register an FIR and alert nearby patrol units.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§303",
+      "BNSS_Provisions": "§173",
+      "Civil_Law_Judgments": "Cognizable offence; FIR mandatory"
+    },
+    "required_info": ["Location and time", "Description of suspect", "Item stolen", "CCTV footage", "Witness details"]
+  },
+  {
+    "question": "How to report lost and found items?",
+    "answer": "Provide item description, location, and ownership proof if available. Police will make a diary entry or match found items for return.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "Not a penal offence unless theft suspected",
+      "BNSS_Provisions": "§173, §193 (Diary entry, found property)",
+      "Civil_Law_Judgments": "Civil recovery via Specific Relief Act"
+    },
+    "required_info": ["Item description", "Location/date of loss", "ID proof of complainant", "Proof of ownership (if applicable)"]
+  },
+  {
+    "question": "How to report property disputes?",
+    "answer": "Provide ownership documents, encroachment details, and opponent information. FIR may be filed if criminal trespass is involved, else refer to civil authorities.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§329 (Criminal trespass), §331 (Mischief)",
+      "BNSS_Provisions": "§148–§151 (Disputes over immovable property)",
+      "Civil_Law_Judgments": "Krishna Ram Mahale v. Shobha Venkat Rao – Possession rights"
+    },
+    "required_info": ["Nature of dispute", "Ownership documents", "Opponent details", "Land records, registry", "Photos/videos of encroachment"]
+  },
+  {
+    "question": "How to report vehicle theft?",
+    "answer": "File an FIR with vehicle details, registration, chassis/engine number, and location/time of theft. Notify insurance and RTO for tracking/blacklisting.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§303",
+      "BNSS_Provisions": "§173, §187",
+      "Civil_Law_Judgments": "FIR + insurance claim; State v. Sushil Kumar – recovery procedures"
+    },
+    "required_info": ["Vehicle details (make, model, reg. no.)", "Location/time of theft", "RC copy", "Insurance papers", "CCTV footage (if available)"]
+  },
+  {
+    "question": "How to report minor road accidents?",
+    "answer": "Provide accident details, vehicle info, location/time, photos, insurance documents, and medical reports if any. Police will issue an accident memo.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§281 (Causing hurt by rash driving)",
+      "BNSS_Provisions": "§173, §193",
+      "Civil_Law_Judgments": "Jacob Mathew v. State of Punjab – Negligence standards"
+    },
+    "required_info": ["Date/time/location", "Vehicle details", "Description of incident", "Photos of damage", "Insurance papers", "Medical report (if injured)"]
+  },
+  {
+    "question": "How to report domestic violence or family disputes?",
+    "answer": "Provide details of abuse, relationship with accused, duration, evidence, and witness statements. File an FIR and approach Protection Officer or Women Cell.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§85 (Cruelty), §86 (Dowry harassment)",
+      "BNSS_Provisions": "§173, §174 (Women’s cell referral)",
+      "Civil_Law_Judgments": "Lalita Kumari – FIR mandatory if cognizable"
+    },
+    "required_info": ["Nature of abuse", "Relationship with accused", "Duration of harassment", "Medical report", "Photos of injuries", "Witness statements"]
+  },
+  {
+    "question": "How to report a missing person?",
+    "answer": "Provide name, age, photo, last seen location/time, clothing description. Police will register FIR, alert control room, and upload to TrackChild/NIC.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§93 (Kidnapping), §94 (Abduction)",
+      "BNSS_Provisions": "§173, §193",
+      "Civil_Law_Judgments": "Court on its own motion v. State – SOP for missing children"
+    },
+    "required_info": ["Name, age, photo of missing person", "Last seen location/time", "Clothing description", "Identifying marks"]
+  },
+  {
+    "question": "How to report trespassing or unlawful entry?",
+    "answer": "Provide entry point details, identity of trespasser, and nature of intrusion. Police may register FIR and issue notice to accused.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§329",
+      "BNSS_Provisions": "§148–§151",
+      "Civil_Law_Judgments": "State v. Basavalingappa – Intent matters"
+    },
+    "required_info": ["Date/time of entry", "Identity of trespasser", "Nature of intrusion", "Photos/videos", "Witness statements"]
+  },
+  {
+    "question": "How to report threats or intimidation?",
+    "answer": "Provide details of threat, mode (verbal, written, digital), and accused identity if known. Police will register FIR and preserve evidence.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§351 (Criminal intimidation)",
+      "BNSS_Provisions": "§173",
+      "Civil_Law_Judgments": "Manik Taneja v. State of Karnataka – Online threats"
+    },
+    "required_info": ["Nature of threat", "Mode (verbal, written, digital)", "Identity of accused (if known)", "Call recordings", "Screenshots", "Witnesses"]
+  },
+  {
+    "question": "How to report forgery or document tampering?",
+    "answer": "Provide type of document, suspected person, and impact of forgery. Police will register FIR and send documents for forensic analysis.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§336–§339",
+      "BNSS_Provisions": "§173, §193",
+      "Civil_Law_Judgments": "Mohd. Ibrahim v. State of Bihar – Forgery elements"
+    },
+    "required_info": ["Type of document forged", "Suspected person", "Impact of forgery", "Original and forged copies", "Expert opinion if available"]
+  },
+  {
+    "question": "How to report noise complaints or public nuisance?",
+    "answer": "Provide location, time, and nature of nuisance. Police may make GD entry and issue warning or challan. Escalate to SDM if persistent.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§268 (Public nuisance)",
+      "BNSS_Provisions": "§152–§154",
+      "Civil_Law_Judgments": "Municipal Council v. Vardhman – Nuisance defined"
+    },
+    "required_info": ["Location/time", "Nature of nuisance", "Video/audio recordings", "Witnesses"]
+  },
+  {
+    "question": "How to report tenant-landlord disputes?",
+    "answer": "Provide tenancy agreement, rent receipts, and dispute details. Police may register FIR if criminal trespass; civil matters referred to Rent Controller/SDM.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§329 (Trespass), §331",
+      "BNSS_Provisions": "§148–§151",
+      "Civil_Law_Judgments": "K.K. Verma v. Union of India – Civil remedy preferred"
+    },
+    "required_info": ["Nature of dispute", "Tenancy agreement", "Duration of tenancy", "Rent receipts", "Legal notices", "Photos"]
+  },
+  {
+    "question": "What documents are needed for insurance claim after mobile theft?",
+    "answer": "Provide FIR, purchase invoice, IMEI, and any tracking screenshots to the insurance company.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§303",
+      "BNSS_Provisions": "§173",
+      "Civil_Law_Judgments": "Lalita Kumari v. State of UP – FIR mandatory for cognizable offence"
+    },
+    "required_info": ["FIR copy", "Purchase invoice", "IMEI number", "Tracking attempts/screenshots"]
+  },
+  {
+    "question": "How can cybercrime evidence be preserved?",
+    "answer": "Provide screenshots, transaction logs, chat history, and bank statements. Police will preserve digital evidence per BNSS §193.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§316, §317",
+      "BNSS_Provisions": "§173, §193",
+      "Civil_Law_Judgments": "Shreya Singhal v. Union of India – Free speech vs cybercrime"
+    },
+    "required_info": ["Screenshots", "Transaction logs", "Bank statements", "Chat transcripts", "Email/SMS alerts"]
+  },
+  {
+    "question": "What steps are followed during house burglary investigation?",
+    "answer": "Police register FIR, visit the crime scene, collect CCTV and witness info, and may requisition forensic team if needed.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "§304, §303",
+      "BNSS_Provisions": "§173, §187",
+      "Civil_Law_Judgments": "State of Maharashtra v. Bharat Fakira Dhiwar – Burden of proof in theft"
+    },
+    "required_info": ["CCTV footage", "Witness statements", "Photos of damage", "List of stolen items"]
+  },
+  {
+    "question": "How to recover lost items from police custody?",
+    "answer": "Provide proof of ownership and identity. Police will verify via Panchnama and return item if unclaimed by others.",
+    "legal_framework": {
+      "Relevant_BNS_Sections": "Not a penal offence unless theft suspected",
+      "BNSS_Provisions": "§173, §193",
+      "Civil_Law_Judgments": "Civil recovery via Specific Relief Act"
+    },
+    "required_info": ["Proof of ownership", "ID of claimant", "Item description"]
+  }
+]

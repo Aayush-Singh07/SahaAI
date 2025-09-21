@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "incident": "Mobile Phone Loss/Theft",
+    "bns_section": "§303",
+    "bnss_section": "§173",
+    "civil_judgment": "Lalita Kumari v. State of UP – FIR mandatory for cognizable offences",
+    "procedure": "Register FIR, provide IMEI, make, model, invoice; forward to CEIR for blocking; keep proof for insurance.",
+    "keywords": {
+      "en": ["mobile theft", "stolen phone", "lost phone", "mobile lost", "phone missing"],
+      "hi": ["मोबाइल चोरी", "स्टोलन फोन", "गायब फोन", "फोन खो गया"],
+      "mr": ["मोबाईल चोरी", "स्टोलन फोन", "गायब फोन", "फोन हरवला"]
+    },
+    "faq": [
+      {
+        "question": {
+          "en": "What should I do if my mobile phone is stolen?",
+          "hi": "अगर मेरा मोबाइल चोरी हो जाए तो क्या करें?",
+          "mr": "जर माझा मोबाइल चोरी झाला तर काय करावे?"
+        },
+        "answer": {
+          "en": "Register FIR at the police station, provide IMEI, make, model and invoice. Forward IMEI to CEIR to block the phone. Keep FIR and proof for insurance claims.",
+          "hi": "पुलिस स्टेशन में FIR दर्ज कराएँ, IMEI, मोबाइल का मॉडल और चालान प्रदान करें। IMEI को CEIR में ब्लॉक करने के लिए भेजें। बीमा दावे के लिए FIR और प्रमाण रखें।",
+          "mr": "पोलीस स्टेशनवर FIR नोंदवा, IMEI, फोन मॉडेल आणि खरेदी पावती द्या. IMEI CEIR मध्ये ब्लॉक करण्यासाठी पाठवा. विमा दाव्यासाठी FIR आणि पुरावे ठेवा."
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "incident": "Cyber Fraud / Online Scam",
+    "bns_section": "§316, §317",
+    "bnss_section": "§173, §193",
+    "civil_judgment": "Shreya Singhal v. Union of India – Free speech vs cybercrime",
+    "procedure": "Register FIR, provide evidence (screenshots, bank statements), forward to Cyber Cell, freeze fraudulent accounts.",
+    "keywords": {
+      "en": ["cyber fraud", "UPI scam", "phishing", "online scam", "internet fraud"],
+      "hi": ["साइबर फ्रॉड", "यूपीआई स्कैम", "फिशिंग", "ऑनलाइन धोखाधड़ी"],
+      "mr": ["सायबर फसवणूक", "UPI स्कॅम", "फिशिंग", "ऑनलाइन फसवणूक"]
+    },
+    "faq": [
+      {
+        "question": {
+          "en": "How to report cyber fraud?",
+          "hi": "साइबर फ्रॉड कैसे रिपोर्ट करें?",
+          "mr": "सायबर फसवणूक कशी रिपोर्ट करावी?"
+        },
+        "answer": {
+          "en": "Register FIR with details and evidence, forward complaint to Cyber Cell, freeze fraudulent accounts.",
+          "hi": "FIR दर्ज कराएँ, सभी विवरण और सबूत दें, साइबर सेल को शिकायत भेजें, धोखाधड़ी वाले खाते फ्रीज करें।",
+          "mr": "FIR नोंदवा, सर्व माहिती आणि पुरावे द्या, सायबर सेलकडे तक्रार पाठवा, फसवणूक खाते ब्लॉक करा."
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "incident": "House Break-in / Burglary",
+    "bns_section": "§304, §303",
+    "bnss_section": "§173, §187",
+    "civil_judgment": "State of Maharashtra v. Bharat Fakira Dhiwar – Burden of proof in theft",
+    "procedure": "Register FIR, list stolen items, provide CCTV footage or witness statements, forensic team if required.",
+    "keywords": {
+      "en": ["house burglary", "break-in", "home theft", "residential theft"],
+      "hi": ["घर में चोरी", "ब्रेक-इन", "रिहायशी चोरी"],
+      "mr": ["घर फोडणे", "चोरी", "निवासी चोरी"]
+    },
+    "faq": [
+      {
+        "question": {
+          "en": "What to do after a house break-in?",
+          "hi": "घर में चोरी होने के बाद क्या करें?",
+          "mr": "घर फोडल्यावर काय करावे?"
+        },
+        "answer": {
+          "en": "Register FIR, list stolen items, provide CCTV or witness info, cooperate with forensic investigation if needed.",
+          "hi": "FIR दर्ज कराएँ, चोरी की गई वस्तुओं की सूची दें, CCTV या गवाह की जानकारी प्रदान करें, यदि जरूरत हो तो फोरेंसिक जांच में सहयोग करें।",
+          "mr": "FIR नोंदवा, चोरी केलेल्या वस्तूंची यादी द्या, CCTV किंवा साक्षीदार माहिती द्या, आवश्यक असल्यास फॉरेन्सिक तपासणीस सहकार्य करा."
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "incident": "Pickpocketing / Snatching",
+    "bns_section": "§303",
+    "bnss_section": "§173",
+    "civil_judgment": "Cognizable offence; FIR mandatory",
+    "procedure": "Register FIR, alert beat staff, coordinate with nearby PS, provide witness and CCTV details if available.",
+    "keywords": {
+      "en": ["pickpocket", "snatching", "wallet theft", "bag theft"],
+      "hi": ["पिकपॉकेटिंग", "झपटमारी", "बटुआ चोरी"],
+      "mr": ["पॉकेटमार", "स्नॅचिंग", "पर्स चोरी"]
+    },
+    "faq": [
+      {
+        "question": {
+          "en": "How to report pickpocketing?",
+          "hi": "पिकपॉकेटिंग की रिपोर्ट कैसे करें?",
+          "mr": "पॉकेटमार कसा रिपोर्ट करावा?"
+        },
+        "answer": {
+          "en": "Register FIR at nearest police station, provide witness and CCTV info, alert beat staff.",
+          "hi": "नज़दीकी पुलिस स्टेशन में FIR दर्ज करें, गवाह और CCTV जानकारी दें, बीट स्टाफ को सूचित करें।",
+          "mr": "जवळच्या पोलीस स्टेशनवर FIR नोंदवा, साक्षीदार आणि CCTV माहिती द्या, बीट स्टाफला माहिती द्या."
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "incident": "Lost and Found Items",
+    "bns_section": "Not penal unless theft suspected",
+    "bnss_section": "§173, §193",
+    "civil_judgment": "Civil recovery via Specific Relief Act",
+    "procedure": "Diary entry or GD, issue acknowledgment, match found items and return if claimed.",
+    "keywords": {
+      "en": ["lost item", "found item", "wallet lost", "ID lost"],
+      "hi": ["खोई हुई वस्तु", "मिली हुई वस्तु", "बटुआ खो गया", "आईडी खो गई"],
+      "mr": ["हरवलेली वस्तू", "सापडलेली वस्तू", "पर्स हरवला", "ओळखपत्र हरवले"]
+    },
+    "faq": [
+      {
+        "question": {
+          "en": "How to report lost items?",
+          "hi": "खोई हुई वस्तु की रिपोर्ट कैसे करें?",
+          "mr": "हरवलेली वस्तू कशी रिपोर्ट करावी?"
+        },
+        "answer": {
+          "en": "Inform police via diary entry or GD, provide description and proof, claim return if found.",
+          "hi": "पुलिस को डायरी एंट्री या GD के माध्यम से सूचित करें, विवरण और प्रमाण दें, मिलने पर वस्तु वापस लें।",
+          "mr": "पोलीसला डायरी एंट्री किंवा GD द्वारे कळवा, वर्णन आणि पुरावे द्या, सापडल्यास वस्तू परत मिळवा."
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "incident": "Property Disputes",
+    "bns_section": "§329, §331",
+    "bnss_section": "§148–§151",
+    "civil_judgment": "Krishna Ram Mahale v. Shobha Venkat Rao – Possession rights",
+    "procedure": "Register FIR if criminal trespass, provide land documents, photos/videos; refer civil matters to SDM.",
+    "keywords": {
+      "en": ["property dispute", "encroachment", "illegal possession", "boundary conflict"],
+      "hi": ["संपत्ति विवाद", "अतिक्रमण", "अवैध कब्जा", "सीमा विवाद"],
+      "mr": ["मालमत्ता वाद", "अतिक्रमण", "बेकायदेशीर ताबा", "मर्यादा वाद"]
+    },
+    "faq": [
+      {
+        "question": {
+          "en": "How to report property disputes?",
+          "hi": "संपत्ति विवाद कैसे रिपोर्ट करें?",
+          "mr": "मालमत्ता वाद कसा नोंदवावा?"
+        },
+        "answer": {
+          "en": "If criminal trespass involved, register FIR; provide land records, photos; civil matters referred to SDM.",
+          "hi": "यदि अपराध शामिल है, तो FIR दर्ज करें; भूमि रिकॉर्ड और फोटो दें; नागरिक मामले SDM को भेजें।",
+          "mr": "जर अपराध असेल तर FIR नोंदवा; जमीन कागदपत्रे आणि फोटो द्या; नागरी प्रकरणे SDM कडे पाठवा."
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "incident": "Vehicle Theft",
+    "bns_section": "§303",
+    "bnss_section": "§173, §187",
+    "civil_judgment": "State v. Sushil Kumar – recovery procedures",
+    "procedure": "Register FIR, alert control room, provide RC and insurance details, assist in vehicle tracing.",
+    "keywords": {
+      "en": ["vehicle theft", "car stolen", "bike stolen", "two-wheeler theft"],
+      "hi": ["वाहन चोरी", "कार चोरी", "बाइक चोरी", "दोपहिया चोरी"],
+      "mr": ["वाहन चोरी", "कार चोरी", "बाईक चोरी", "दुचाकी चोरी"]
+    },
+    "faq": [
+      {
+        "question": {
+          "en": "What to do if my vehicle is stolen?",
+          "hi": "अगर मेरी गाड़ी चोरी हो जाए तो क्या करें?",
+          "mr": "जर माझे वाहन चोरी झाले तर काय करावे?"
+        },
+        "answer": {
+          "en": "Register FIR, alert control room, provide RC and insurance papers, assist police in tracing vehicle.",
+          "hi": "FIR दर्ज कराएँ, कंट्रोल रूम को सूचित करें, RC और बीमा दस्तावेज प्रदान करें, वाहन खोजने में पुलिस की मदद करें।",
+          "mr": "FIR नोंदवा, कंट्रोल रूमला माहिती द्या, RC आणि विमा कागदपत्रे द्या, वाहन शोधण्यात पोलीसांना मदत करा."
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "incident": "Minor Road Accidents",
+    "bns_section": "§281",
+    "bnss_section": "§173, §193",
+    "civil_judgment": "Jacob Mathew v. State of Punjab – Negligence standards",
+    "procedure": "Register accident report, provide photos, insurance papers, medical reports if injured, pursue MACT claim if applicable.",
+    "keywords": {
+      "en": ["road accident", "minor accident", "traffic mishap", "vehicle collision"],
+      "hi": ["सड़क दुर्घटना", "छोटी दुर्घटना", "यातायात हादसा", "वाहन टक्कर"],
+      "mr": ["रस्ता अपघात", "लहान अपघात", "वाहन धडक", "ट्रॅफिक अपघात"]
+    },
+    "faq": [
+      {
+        "question": {
+          "en": "How to report a minor road accident?",
+          "hi": "छोटी सड़क दुर्घटना कैसे रिपोर्ट करें?",
+          "mr": "लहान रस्ता अपघात कसा नोंदवावा?"
+        },
+        "answer": {
+          "en": "File accident report or GD, provide vehicle photos, insurance and medical details, pursue compensation via MACT if needed.",
+          "hi": "दुर्घटना रिपोर्ट या GD दर्ज करें, वाहन की फोटो, बीमा और चिकित्सा विवरण दें, आवश्यक होने पर MACT के माध्यम से मुआवजा लें।",
+          "mr": "अपघात अहवाल किंवा GD नोंदवा, वाहनाचे फोटो, विमा आणि वैद्यकीय माहिती द्या, आवश्यक असल्यास MACT द्वारे नुकसान भरपाई मिळवा."
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "incident": "Domestic Violence / Family Disputes",
+    "bns_section": "§85, §86",
+    "bnss_section": "§173, §174",
+    "civil_judgment": "Lalita Kumari – FIR mandatory if cognizable",
+    "procedure": "Register FIR, provide medical evidence, witness statements, refer to Protection Officer/Women Cell.",
+    "keywords": {
+      "en": ["domestic violence", "family dispute", "dowry harassment", "marital abuse"],
+      "hi": ["घरेलू हिंसा", "परिवार विवाद", "दहेज उत्पीड़न", "वैवाहिक दुरुपयोग"],
+      "mr": ["घरगुती हिंसा", "कौटुंबिक वाद", "हलफनाम्या त्रास", "वैवाहिक अत्याचार"]
+    },
+    "faq": [
+      {
+        "question": {
+          "en": "How to report domestic violence?",
+          "hi": "घरेलू हिंसा की रिपोर्ट कैसे करें?",
+          "mr": "घरगुती हिंसा कशी रिपोर्ट करावी?"
+        },
+        "answer": {
+          "en": "Register FIR, provide medical and witness evidence, approach Protection Officer or Women Cell for support.",
+          "hi": "FIR दर्ज करें, चिकित्सा और गवाह सबूत दें, सहायता के लिए प्रोटेक्शन ऑफिसर या महिला सेल से संपर्क करें।",
+          "mr": "FIR नोंदवा, वैद्यकीय आणि साक्षीदार पुरावे द्या, मदतीसाठी प्रोटेक्शन ऑफिसर किंवा महिला सेल कडे जा."
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "incident": "Missing Persons",
+    "bns_section": "§93, §94",
+    "bnss_section": "§173, §193",
+    "civil_judgment": "Court on its own motion v. State – SOP for missing children",
+    "procedure": "Register FIR immediately, provide recent photo, last seen location, clothing details, alert nearby PS, upload details to TrackChild/NIC portal.",
+    "keywords": {
+      "en": ["missing person", "lost child", "missing elderly", "kidnapping"],
+      "hi": ["लापता व्यक्ति", "खोया बच्चा", "लापता बुजुर्ग", "अपहरण"],
+      "mr": ["हरवलेले व्यक्ती", "हरवलेले बाळ", "हरवलेले ज्येष्ठ", "अपहरण"]
+    },
+    "faq": [
+      {
+        "question": {
+          "en": "How to report a missing person?",
+          "hi": "लापता व्यक्ति की रिपोर्ट कैसे करें?",
+          "mr": "हरवलेली व्यक्ती कशी रिपोर्ट करावी?"
+        },
+        "answer": {
+          "en": "Register FIR immediately, provide photo, last location, clothing info; alert nearby police, upload to TrackChild/NIC portal.",
+          "hi": "तुरंत FIR दर्ज करें, फोटो, अंतिम स्थान, कपड़े की जानकारी दें; नज़दीकी पुलिस को सूचित करें, TrackChild/NIC पोर्टल पर अपलोड करें।",
+          "mr": "तुरत FIR नोंदवा, फोटो, शेवटचे ठिकाण, कपड्याची माहिती द्या; जवळच्या पोलीस ठाण्याला कळवा, TrackChild/NIC पोर्टलवर अपलोड करा."
+        }
+      }
+    ]
+  }
+]

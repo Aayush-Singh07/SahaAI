@@ -1,0 +1,73 @@
+{
+  "complaints": [
+    {
+      "type": "Mobile Phone Loss/Theft",
+      "nature": "Cognizable (if stolen), Non-cognizable (if lost)",
+      "required_info": [
+        "IMEI number",
+        "Date, time, and location of loss/theft",
+        "Phone model and color"
+      ],
+      "procedure": [
+        "Register FIR (BNS §303)",
+        "Forward IMEI to CDR/IMEI tracking cell",
+        "Issue acknowledgment for insurance claim"
+      ]
+    },
+    {
+      "type": "Cyber Fraud/Online Scam",
+      "nature": "Cognizable",
+      "required_info": [
+        "Date/time of incident",
+        "Platform used (UPI, website, social media)",
+        "Fraudulent account/phone number"
+      ],
+      "procedure": [
+        "Register FIR (BNS §316, §317)",
+        "Forward case to Cyber Cell",
+        "Freeze fraudulent account via nodal officer"
+      ]
+    },
+    {
+      "type": "House Break-In/Burglary",
+      "nature": "Cognizable",
+      "required_info": [
+        "Date/time of break-in",
+        "Entry point used",
+        "List of stolen items"
+      ],
+      "procedure": [
+        "Register FIR (BNS §304)",
+        "Conduct scene visit by Investigating Officer",
+        "Request forensic team if needed"
+      ]
+    },
+    {
+      "type": "Pickpocketing/Snatching",
+      "nature": "Cognizable",
+      "required_info": [
+        "Location and time",
+        "Description of suspect (if seen)",
+        "Item stolen"
+      ],
+      "procedure": [
+        "Register FIR (BNS §303)",
+        "Alert beat staff and patrol units",
+        "Coordinate with nearby police stations for similar cases"
+      ]
+    },
+    {
+      "type": "Lost and Found Items",
+      "nature": "Non-cognizable",
+      "required_info": [
+        "Item description",
+        "Location/date of loss"
+      ],
+      "procedure": [
+        "Make diary entry or GD",
+        "Issue acknowledgment",
+        "If item found, return via Panchnama"
+      ]
+    }
+  ]
+}
